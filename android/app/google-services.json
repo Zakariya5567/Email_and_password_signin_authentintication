@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432025360",
+    "project_id": "emailpasswordauth-b97e3",
+    "storage_bucket": "emailpasswordauth-b97e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432025360:android:b9247a96477dc729dbbf95",
+        "android_client_info": {
+          "package_name": "com.mdzakariya.email_password_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432025360-7mku69mfrtk360per4lv7lo2quufg3gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0nE0PQ4nz5JrS7lJ0HGn2l5IKj_8MRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432025360-7mku69mfrtk360per4lv7lo2quufg3gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
